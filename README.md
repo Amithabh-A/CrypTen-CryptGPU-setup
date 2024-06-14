@@ -1,13 +1,14 @@
 # CrypTen-CryptGPU-setup
 
->  NOTE
+>  NOTE:
+> 
     `setup.py` won't run in virtual or conda environments
  
 Script to setup `CrypTen` and `CryptGPU`
 
-1. Give execution access to `setup.py`
+1. Give execution access to `setup.sh`
 ```bash
-chmod +x setup.py
+chmod +x setup.sh
 ```
 
 2. Run the script
