@@ -1,8 +1,6 @@
 # CrypTen-CryptGPU-setup
 
->  NOTE:
-> 
-    `setup.py` won't run in virtual or conda environments
+>  NOTE: `setup.py` won't run in virtual or conda environments
  
 Script to setup `CrypTen` and `CryptGPU`
 
