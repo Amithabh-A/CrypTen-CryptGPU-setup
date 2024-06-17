@@ -13,3 +13,8 @@ chmod +x setup.sh
 ```bash
 ./setup.sh
 ```
+
+3. To use CrypTen and CryptGPU, activate virtual environment
+```bash
+source venv/bin/activate
+```
